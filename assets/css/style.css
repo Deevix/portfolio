@@ -553,6 +553,9 @@ section.my-work .section-heading {
 .isotope-toolbar a {
     color: #fff;
 }
+.isotope-toolbar i {
+    color: #fff;
+}
 
 .isotope-item {
     position: relative;
